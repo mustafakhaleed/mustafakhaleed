@@ -5,7 +5,6 @@
 
 🎓 **Mechatronics Engineering Student**  
 📍 *Egypt-Japan University of Science and Technology (E-JUST)*  
-📊 *Cumulative GPA: 3.41*  
 💡 *Driven by innovation in Robotics, AI, and Embedded Systems*
 
 ---
