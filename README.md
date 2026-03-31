@@ -3,13 +3,13 @@
 
 ---
 
-🎓 **Mechatronics Engineering Student**  
+🎓 **Mechatronics Engineering Fresh graduate**  
 📍 *Egypt-Japan University of Science and Technology (E-JUST)*  
-💡 *Driven by innovation in Robotics, AI, and Embedded Systems*
+💡 *Driven by innovation in Robotics, AI, and Control and Embedded Systems*
 
 ---
 
-- 🔭 I’m currently diving deep into **Autonomous Mobile Robotics, Embedded Linux, and Automotive Systems**
+- 🔭 I’m currently diving deep into **Autonomous Mobile Robotics, Embedded Linux, and Control and automotive Systems**
 - 🌱 Exploring topics like **SLAM, path planning, RTOS, Yocto, and ARM microcontroller development**
 - 🤖 ROS Developer working on real-time applications using C++ and Python
 - 💼 Check out my **resume and portfolio** [here](https://drive.google.com/drive/folders/1qvqlU4N3QZ8qOu_xXpIY9rpolZiALWIr)
@@ -59,6 +59,8 @@
 - 🛠 **Embedded Linux Diploma** – Device Drivers, Yocto, Linux Kernel
 - 🚗 **Automotive Embedded Systems** – CAN, UDS, AUTOSAR, MISRA C
 - 🤖 **AMR ROS Diploma** – SLAM, Path Planning, Behavior Trees
+- 🤖 **MBD Diploma** – MATLAB, Simulink, Stateflow, PID Controller Design, System Modeling, Embedded Coder, AUTOSAR with MBD
+
 
 ---
 
